@@ -31,7 +31,7 @@ mcp-servers/
 - **경로 1**: Collector → Kafka + MySQL (수집 시 직접 저장)
 - **경로 2**: Kafka → kafka-to-mysql-consumer → MySQL (별도 컨슈머)
 
-## 📊 데이터 소스 & Kafka 토픽
+## 📊 데이터 소스
 
 | 소스 | 토픽 | 설명 |
 |------|------|------|
